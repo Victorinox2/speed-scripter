@@ -11,7 +11,7 @@ Sped Scripter is a fun and interactive typing challenge game designed to improve
 
 ## Demo
 
-[Victorinox2,github.io/speed-scripter]
+[Victorinox2.github.io/speed-scripter]
 
 ## Screenshots
 
@@ -30,7 +30,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sped-typer.git
+   git clone https://github.com/Victorinox2/sped-typer.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
